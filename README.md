@@ -1,28 +1,5 @@
-# Optimized React Snowpack Template
+# Webeditor Mobile v2
 
-## How to run on localhost
-
-First install dependencies:
-
-```sh
-npm install
-```
-
-To run in dev mode mode:
-
-```sh
-npm start
-```
-
-Then go to http://localhost:8080
-
-To create a production build:
-
-```sh
-npm run build
-```
-
-## Credits
-
-Modified and optimized by [nikhilmwarrier](https://github.com/nikhilmwarrier)  
-Originally made with [createapp.dev](https://createapp.dev/)
+A PWA code editor for mobile devices.
+Work in progress
+See [changelog](./Changelog.md).

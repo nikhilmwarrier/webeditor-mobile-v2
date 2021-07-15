@@ -1,7 +1,8 @@
 import React from "react";
+import Editor from "./components/TextEditor";
 
 function App() {
-	return <h1>Hello World!</h1>;
+	return <Editor />;
 }
 
 export default App;

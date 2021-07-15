@@ -1,0 +1,31 @@
+.texteditor__parent {
+	position: relative;
+	background: #333;
+	height: 300px;
+	width: 500px;
+	border: 1px solid #555;
+}
+
+.texteditor__textarea {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: transparent;
+	border: none;
+	resize: none;
+	color: transparent;
+	caret-color: #fff;
+}
+
+.texteditor__highlighted-div {
+	color: #fff;
+	white-space: pre-line;
+}
+
+.texteditor__textarea,
+.texteditor__highlighted-div {
+	font-size: 1rem;
+	font-family: "Fira Code", monospace;
+}
