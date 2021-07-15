@@ -21,11 +21,13 @@
 
 .texteditor__highlighted-div {
 	color: #fff;
-	white-space: pre-line;
+	white-space: pre-wrap;
 }
 
 .texteditor__textarea,
 .texteditor__highlighted-div {
 	font-size: 1rem;
 	font-family: "Fira Code", monospace;
+	-moz-tab-size: 4;
+	tab-size: 4;
 }
