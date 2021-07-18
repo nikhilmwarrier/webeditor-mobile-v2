@@ -12,10 +12,8 @@
     "build": "snowpack build"
   },
   "dependencies": {
-    "codejar": "^3.5.0",
     "prismjs": "^1.24.1",
     "react": "^17.0.2",
-    "react-codejar": "^1.1.0",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0"
   },
